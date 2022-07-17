@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.5.4 
+Created-By: 1.4.2_04-b04 (Sun Microsystems Inc.)
+Specification-Title: JavaMail(TM) API Design Specification
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems, Inc.
+Extension-Name: javax.mail
+Implementation-Vendor-Id: com.sun
+Implementation-Vendor: Sun Microsystems, Inc.
+Implementation-Version: 1.3.1
+Class-Path: activation.jar
+

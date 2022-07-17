@@ -1,0 +1,121 @@
+27-Jan-2022 00:33:42.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.50
+27-Jan-2022 00:33:42.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 28 2021 08:46:44 UTC
+27-Jan-2022 00:33:42.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.50.0
+27-Jan-2022 00:33:42.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Jan-2022 00:33:42.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-15.0.1
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.1+9-18
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 00:33:42.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 00:33:42.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Jan-2022 00:33:42.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=J:\ide programs\apache-tomcat-9.0.50\conf\logging.properties
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-SLE5BP3
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 00:33:42.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 00:33:42.745 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=J:\ide programs\apache-tomcat-9.0.50\temp
+27-Jan-2022 00:33:42.871 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+27-Jan-2022 00:33:42.872 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Jan-2022 00:33:42.878 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Jan-2022 00:33:42.977 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+27-Jan-2022 00:33:43.582 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 00:33:43.661 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1423] milliseconds
+27-Jan-2022 00:33:43.812 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Jan-2022 00:33:43.812 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.50]
+27-Jan-2022 00:33:43.834 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml]
+27-Jan-2022 00:33:43.854 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Durva_EJ_CA2] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml] has been ignored
+27-Jan-2022 00:33:44.594 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml] has finished in [759] ms
+27-Jan-2022 00:33:44.594 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml]
+27-Jan-2022 00:33:44.595 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/intro] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml] has been ignored
+27-Jan-2022 00:33:44.920 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Jan-2022 00:33:44.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml] has finished in [330] ms
+27-Jan-2022 00:33:44.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml]
+27-Jan-2022 00:33:44.925 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+27-Jan-2022 00:33:45.002 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml] has finished in [78] ms
+27-Jan-2022 00:33:45.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\docs]
+27-Jan-2022 00:33:45.092 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\docs] has finished in [88] ms
+27-Jan-2022 00:33:45.092 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\examples]
+27-Jan-2022 00:33:46.156 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\examples] has finished in [1,063] ms
+27-Jan-2022 00:33:46.156 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\host-manager]
+27-Jan-2022 00:33:46.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\host-manager] has finished in [38] ms
+27-Jan-2022 00:33:46.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\manager]
+27-Jan-2022 00:33:46.309 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\manager] has finished in [113] ms
+27-Jan-2022 00:33:46.312 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\ROOT]
+27-Jan-2022 00:33:46.360 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\ROOT] has finished in [51] ms
+27-Jan-2022 00:33:46.364 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 00:33:46.710 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3048] milliseconds
+27-Jan-2022 01:10:19.872 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Jan-2022 01:10:20.523 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 01:10:21.680 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Jan-2022 01:10:23.117 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 01:10:23.372 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 19:48:45.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.50
+27-Jan-2022 19:48:45.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 28 2021 08:46:44 UTC
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.50.0
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-15.0.1
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.1+9-18
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 19:48:45.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=J:\ide programs\apache-tomcat-9.0.50\conf\logging.properties
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Jan-2022 19:48:45.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-SLE5BP3
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=J:\ide programs\apache-tomcat-9.0.50
+27-Jan-2022 19:48:45.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=J:\ide programs\apache-tomcat-9.0.50\temp
+27-Jan-2022 19:48:45.831 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+27-Jan-2022 19:48:45.831 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Jan-2022 19:48:45.831 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Jan-2022 19:48:46.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+27-Jan-2022 19:48:46.576 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 19:48:46.658 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1547] milliseconds
+27-Jan-2022 19:48:46.771 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Jan-2022 19:48:46.771 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.50]
+27-Jan-2022 19:48:46.809 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml]
+27-Jan-2022 19:48:46.842 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Durva_EJ_CA2] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml] has been ignored
+27-Jan-2022 19:48:47.519 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [106] milliseconds.
+27-Jan-2022 19:48:47.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\Durva_EJ_CA2.xml] has finished in [751] ms
+27-Jan-2022 19:48:47.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml]
+27-Jan-2022 19:48:47.581 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/intro] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml] has been ignored
+27-Jan-2022 19:48:47.894 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Jan-2022 19:48:47.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\intro.xml] has finished in [336] ms
+27-Jan-2022 19:48:47.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml]
+27-Jan-2022 19:48:47.899 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+27-Jan-2022 19:48:47.977 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\WebApplication1.xml] has finished in [79] ms
+27-Jan-2022 19:48:47.977 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\docs]
+27-Jan-2022 19:48:48.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\docs] has finished in [49] ms
+27-Jan-2022 19:48:48.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\examples]
+27-Jan-2022 19:48:48.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\examples] has finished in [802] ms
+27-Jan-2022 19:48:48.830 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\host-manager]
+27-Jan-2022 19:48:48.906 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\host-manager] has finished in [76] ms
+27-Jan-2022 19:48:48.906 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\manager]
+27-Jan-2022 19:48:49.015 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\manager] has finished in [109] ms
+27-Jan-2022 19:48:49.016 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\ROOT]
+27-Jan-2022 19:48:49.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [J:\ide programs\apache-tomcat-9.0.50\webapps\ROOT] has finished in [35] ms
+27-Jan-2022 19:48:49.071 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Jan-2022 19:48:49.253 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2595] milliseconds
+27-Jan-2022 23:26:43.174 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\redecor_webpage.xml]
+27-Jan-2022 23:26:44.606 WARNING [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/redecor_webpage] in deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\redecor_webpage.xml] has been ignored
+27-Jan-2022 23:26:49.066 WARNING [http-nio-8080-exec-9] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [181] milliseconds.
+27-Jan-2022 23:26:49.087 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [J:\ide programs\apache-tomcat-9.0.50\conf\Catalina\localhost\redecor_webpage.xml] has finished in [5,981] ms
+27-Jan-2022 23:26:49.155 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/redecor_webpage]] after start() had already been called. The second call will be ignored.

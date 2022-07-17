@@ -1,0 +1,45 @@
+.menu {
+  position: absolute;
+  top: 200px;
+  left: 500px;
+  background: white;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  opacity: 0;
+  transition: all var(--menu-speed) ease;
+}
+.menu > div {
+  position:absolute;
+  top: 200px;
+  left: 500px;
+  height: 500px;
+  width: 500px;
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.4s ease-in;
+}
+.menu ul {
+  list-style: none;
+}
+.menu li {
+  padding: 1rem 0;
+}
+.menu > div a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+  opacity: 0;
+  transition: opacity 1s ease-in;
+}
+.menu a:hover {
+  color: white;
+  transition: color 0.3s ease-in;
+}
